@@ -1,0 +1,14 @@
+/home/bruno/AulaDados/ex03/Salario/obj/Debug/net8.0/Salario.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/AulaDados/ex03/Salario/obj/Debug/net8.0/Salario.AssemblyInfoInputs.cache
+/home/bruno/AulaDados/ex03/Salario/obj/Debug/net8.0/Salario.AssemblyInfo.cs
+/home/bruno/AulaDados/ex03/Salario/obj/Debug/net8.0/Salario.csproj.CoreCompileInputs.cache
+/home/bruno/AulaDados/ex03/Salario/bin/Debug/net8.0/Salario
+/home/bruno/AulaDados/ex03/Salario/bin/Debug/net8.0/Salario.deps.json
+/home/bruno/AulaDados/ex03/Salario/bin/Debug/net8.0/Salario.runtimeconfig.json
+/home/bruno/AulaDados/ex03/Salario/bin/Debug/net8.0/Salario.dll
+/home/bruno/AulaDados/ex03/Salario/bin/Debug/net8.0/Salario.pdb
+/home/bruno/AulaDados/ex03/Salario/obj/Debug/net8.0/Salario.dll
+/home/bruno/AulaDados/ex03/Salario/obj/Debug/net8.0/refint/Salario.dll
+/home/bruno/AulaDados/ex03/Salario/obj/Debug/net8.0/Salario.pdb
+/home/bruno/AulaDados/ex03/Salario/obj/Debug/net8.0/Salario.genruntimeconfig.cache
+/home/bruno/AulaDados/ex03/Salario/obj/Debug/net8.0/ref/Salario.dll
