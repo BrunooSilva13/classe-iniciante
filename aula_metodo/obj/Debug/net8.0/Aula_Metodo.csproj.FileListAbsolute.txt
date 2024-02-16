@@ -1,0 +1,14 @@
+/home/bruno/AulaDados/aula_metodos/Aula_Metodo/obj/Debug/net8.0/Aula_Metodo.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/AulaDados/aula_metodos/Aula_Metodo/obj/Debug/net8.0/Aula_Metodo.AssemblyInfoInputs.cache
+/home/bruno/AulaDados/aula_metodos/Aula_Metodo/obj/Debug/net8.0/Aula_Metodo.AssemblyInfo.cs
+/home/bruno/AulaDados/aula_metodos/Aula_Metodo/obj/Debug/net8.0/Aula_Metodo.csproj.CoreCompileInputs.cache
+/home/bruno/AulaDados/aula_metodos/Aula_Metodo/bin/Debug/net8.0/Aula_Metodo
+/home/bruno/AulaDados/aula_metodos/Aula_Metodo/bin/Debug/net8.0/Aula_Metodo.deps.json
+/home/bruno/AulaDados/aula_metodos/Aula_Metodo/bin/Debug/net8.0/Aula_Metodo.runtimeconfig.json
+/home/bruno/AulaDados/aula_metodos/Aula_Metodo/bin/Debug/net8.0/Aula_Metodo.dll
+/home/bruno/AulaDados/aula_metodos/Aula_Metodo/bin/Debug/net8.0/Aula_Metodo.pdb
+/home/bruno/AulaDados/aula_metodos/Aula_Metodo/obj/Debug/net8.0/Aula_Metodo.dll
+/home/bruno/AulaDados/aula_metodos/Aula_Metodo/obj/Debug/net8.0/refint/Aula_Metodo.dll
+/home/bruno/AulaDados/aula_metodos/Aula_Metodo/obj/Debug/net8.0/Aula_Metodo.pdb
+/home/bruno/AulaDados/aula_metodos/Aula_Metodo/obj/Debug/net8.0/Aula_Metodo.genruntimeconfig.cache
+/home/bruno/AulaDados/aula_metodos/Aula_Metodo/obj/Debug/net8.0/ref/Aula_Metodo.dll
