@@ -1,0 +1,14 @@
+/home/bruno/AulaDados/ex03/ex03/bin/Debug/net8.0/ex03
+/home/bruno/AulaDados/ex03/ex03/bin/Debug/net8.0/ex03.deps.json
+/home/bruno/AulaDados/ex03/ex03/bin/Debug/net8.0/ex03.runtimeconfig.json
+/home/bruno/AulaDados/ex03/ex03/bin/Debug/net8.0/ex03.dll
+/home/bruno/AulaDados/ex03/ex03/bin/Debug/net8.0/ex03.pdb
+/home/bruno/AulaDados/ex03/ex03/obj/Debug/net8.0/ex03.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/AulaDados/ex03/ex03/obj/Debug/net8.0/ex03.AssemblyInfoInputs.cache
+/home/bruno/AulaDados/ex03/ex03/obj/Debug/net8.0/ex03.AssemblyInfo.cs
+/home/bruno/AulaDados/ex03/ex03/obj/Debug/net8.0/ex03.csproj.CoreCompileInputs.cache
+/home/bruno/AulaDados/ex03/ex03/obj/Debug/net8.0/ex03.dll
+/home/bruno/AulaDados/ex03/ex03/obj/Debug/net8.0/refint/ex03.dll
+/home/bruno/AulaDados/ex03/ex03/obj/Debug/net8.0/ex03.pdb
+/home/bruno/AulaDados/ex03/ex03/obj/Debug/net8.0/ex03.genruntimeconfig.cache
+/home/bruno/AulaDados/ex03/ex03/obj/Debug/net8.0/ref/ex03.dll
